@@ -54,7 +54,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg") alt="team office meeting" ;
+    background-image: url("../images/digital-marketing-meeting.jpg") alt="team office meeting";
     background-size: cover;
     background-position: center;
 }
@@ -83,6 +83,7 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 .search-engine img {
     max-height: 200px;
 }
@@ -100,13 +101,16 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 .online-reputation img {
     max-height: 200px;
 }
+
 .online-reputation h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
 .social-media {
     margin-bottom: 20px;
     padding: 50px;
@@ -115,9 +119,11 @@ p {
     background-color: #0072bb;
     color: #ffffff;
 }
+
 .social-media img {
     max-height: 200px;
 }
+
 .social-media h2 {
     margin-bottom: 20px;
     font-size: 36px;
