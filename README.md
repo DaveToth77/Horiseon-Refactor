@@ -2,12 +2,12 @@
 
 ## Description
 
-Refactored code to improve accessibility, update HTML and CSS to improve readability for future updates.
+Refactored code to improve accessibility, updated HTML and CSS to improve readability for future updates.
 
 ## Built With
 
-HTML
-CSS
+- HTML
+- CSS
 
 ## Links
 
