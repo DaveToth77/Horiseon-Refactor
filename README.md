@@ -11,7 +11,7 @@ Refactored code to improve accessibility, updated HTML and CSS to improve readab
 
 ## Links
 
-- [Repo](https://davetoth77.github.io/challenge-one/)
+- [Repo](https://github.com/DaveToth77/challenge-one.git)
 
 - [Live View](https://davetoth77.github.io/challenge-one/)
 
