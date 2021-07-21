@@ -9,11 +9,11 @@ CSS
 
 
 ## Links
-- [Repo](git@github.com:DaveToth77/challenge-one.git)
+- [Repo](https://davetoth77.github.io/challenge-one/)
 
 - [Live View](https://davetoth77.github.io/challenge-one/)
 
-##Screenshot
+## Screenshot
 
 <img src="./assets/images/Horiseon-Social-Solution-Services.png">
 ## Contribution
