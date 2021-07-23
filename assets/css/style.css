@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Header Styling */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +25,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Nav bar styling */
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -59,6 +61,12 @@ p {
     background-position: center;
 }
 
+/* main content section styling */
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
 .float-left {
     float: left;
     margin-right: 25px;
@@ -67,12 +75,6 @@ p {
 .float-right {
     float: right;
     margin-left: 25px;
-}
-
-.content {
-    width: 75%;
-    display: inline-block;
-    margin-left: 20px;
 }
 
 .search-engine {
@@ -128,7 +130,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* end main content */
 
+/* Benefits container */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -187,7 +191,9 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
+/* end benefits container */
 
+/* Footer Styling */
 footer {
     padding: 30px;
     clear: both;
